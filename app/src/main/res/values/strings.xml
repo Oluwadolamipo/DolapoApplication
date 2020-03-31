@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DolapoApplication</string>
+    <string name="text1">Full Names: Dolapo Mosuro</string>
+    <string name="text2">Slack Username: @Oluwadolamipo</string>
+    <string name="text3">Email address: dlapsie@gmail.com</string>
+    <string name="text4">Track: Design, Backend, Mobile </string>
+
+</resources>
